@@ -1,3 +1,13 @@
+---
+title: "Abraji 2024: Turning Audio and Video into useable data"
+format:
+  html:
+    toc: false
+    embed-resources: true
+    linkcolor: red
+    theme: cosmo
+---
+
 [Slides are here](abraji-audio-video.pdf), and my site from yesterday's Abraji session about analyzing documents [can be found here](https://github.com/jsoma/2024-abraji-ai-docs)
 
 ## Transcribing
