@@ -11,7 +11,7 @@ format:
 Jonathan Soma, Knight Chair in Data Journalism, Columbia Graduate School of Journalism
 
 - **Contact:** jonathan.soma@gmail.com, [@dangerscarf](https://twitter.com/dangerscarf)
-- **A few links:** [Practical AI for Investigative Journalism](https://www.youtube.com/playlist?list=PLewNEVDy7gq1_GPUaL0OQ31QsiHP5ncAQ), [jonathansoma.com](jonathansoma.com), [https://jonathansoma.com/everything/](Everything I Know)
+- **A few links:** [Practical AI for Investigative Journalism](https://www.youtube.com/playlist?list=PLewNEVDy7gq1_GPUaL0OQ31QsiHP5ncAQ), [jonathansoma.com](https://jonathansoma.com), [Everything I Know](https://jonathansoma.com/everything/)
 
 [Slides are here](abraji-audio-video.pdf), and my site from yesterday's Abraji session about analyzing documents [can be found here](https://github.com/jsoma/2024-abraji-ai-docs)
 
